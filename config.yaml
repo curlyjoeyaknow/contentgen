@@ -1,0 +1,61 @@
+perplexity:
+  api_key: "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"
+  base_url: "https://api.perplexity.ai"
+
+word2vec:
+  model_path: 'C:\users\theon\desktop\GoogleNews-vectors-negative300.bin.gz'
+
+database:
+  path: 'feedback.db'
+
+personas:
+  file: 'personas.yaml'
+
+post_processing:
+  enable: true
+  max_grade_level: 10
+
+seo_optimization:
+  keywords:
+    - 'example keyword 1'
+    - 'example keyword 2'
+
+output:
+  file: 'output.txt'
+
+research:
+  max_results: 5
+
+models:
+  content_generation:
+    model: 'facebook/bart-large-cnn'
+  sentence_transformer:
+    model: 'all-MiniLM-L6-v2'
+
+data_source:
+  type: 'api'
+  url: 'https://api.perplexity.ai/search'
+
+nlp:
+  spacy_model: 'en_core_web_sm'
+
+keyword_extraction:
+  num_keywords: 5
+  keyphrase_ngram_range:
+    - 1
+    - 2
+  use_maxsum: true
+  nr_candidates: 20
+
+content_generation:
+  max_length: 1000
+  min_length: 200
+  do_sample: true
+
+web_search:
+  use_bm25: true
+
+fine_tuning:
+  min_feedback_samples: 100
+  test_size: 0.2
+  random_state: 42

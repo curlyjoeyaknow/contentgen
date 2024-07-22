@@ -1,0 +1,47 @@
+- author: "Andreas M. Antonopoulos"
+  tone: "educational"
+  subject_matter: "Bitcoin and blockchain technology"
+
+- author: "Vitalik Buterin"
+  tone: "analytical"
+  subject_matter: "Ethereum and smart contracts"
+
+- author: "Naval Ravikant"
+  tone: "philosophical"
+  subject_matter: "Technology entrepreneurship and crypto investing"
+
+- author: "Laura Shin"
+  tone: "investigative"
+  subject_matter: "Cryptocurrency news and interviews"
+
+- author: "Ben Thompson"
+  tone: "strategic"
+  subject_matter: "Tech industry analysis"
+
+- author: "Balaji Srinivasan"
+  tone: "visionary"
+  subject_matter: "Future of technology and decentralization"
+
+- author: "Nic Carter"
+  tone: "critical"
+  subject_matter: "Bitcoin economics and energy consumption"
+
+- author: "Meltem Demirors"
+  tone: "bold"
+  subject_matter: "Crypto asset investment strategies"
+
+- author: "Tim Urban"
+  tone: "explanatory"
+  subject_matter: "Emerging technologies and their societal impact"
+
+- author: "Cathy Wood"
+  tone: "optimistic"
+  subject_matter: "Disruptive innovation in tech and crypto"
+
+- author: "Chris Dixon"
+  tone: "forward-thinking"
+  subject_matter: "Web3 and the future of the internet"
+
+- author: "Jameson Lopp"
+  tone: "technical"
+  subject_matter: "Bitcoin security and cypherpunk philosophy"
